@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi, I'm Abdul Malek 👋
 
-<!--
-**dmmalek/dmmalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+👑 I am a Web Developer 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I got my start programming when I started a book-selling website. Ever since then I have been learning and building everything I can get my hands on.
+<br><br>
+I enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
+
+## 👨‍💻 Skills & Experience:
+
+✅ React Js <br>
+✅ Next Js(familiar) <br>
+✅ JavaScript <br>
+✅ Material UI <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Sanity / Strapi <br>
+
+## 📧 For Business Inquiries
+
+✅ ► abdulmalekmonir97@gmail.com
