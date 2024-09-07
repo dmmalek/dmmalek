@@ -13,12 +13,10 @@ I enjoy bridging the gap between engineering and design — combining my technic
 
 ## 👨‍💻 Skills & Experience:
 
-✅ React Js <br>
-✅ Next Js(familiar) <br>
 ✅ JavaScript <br>
 ✅ Material UI <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Sanity / Strapi <br>
+✅ Daisy UI <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap/Tailwind CSS <br>
 
 ## 📧 For Business Inquiries
 
